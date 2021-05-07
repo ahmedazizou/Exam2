@@ -1,0 +1,1 @@
+"C:\Users\theze\AppData\Local\Programs\Python\Python39\python.exe" "C:\Users\theze\OneDrive\Bureau\Exam\test_math.py"
